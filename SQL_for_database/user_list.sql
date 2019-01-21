@@ -1,0 +1,14 @@
+INSERT INTO `user_list` VALUES (1, 18888888888, 'super_admin', 'admin', 'ChenQixian', 'chenqixian@buaa.edu.cn');
+INSERT INTO `user_list` VALUES (2, 18118811188, 'user2', '19980612', 'xianxian', 'chen@163.com');
+INSERT INTO `user_list` VALUES (3, 12345678900, 'user3', '000000', 'xianxian3', 'chen@163.com');
+INSERT INTO `user_list` VALUES (4, 12345678900, 'user4', '000000', 'xianxian4', 'chen@163.com');
+INSERT INTO `user_list` VALUES (5, 123456789, 'uesr5', '000000', 'xianxian5', 'chen@163.com');
+INSERT INTO `user_list` VALUES (6, 12345678900, 'user6', '000000', 'xianxian6', 'chen@163.com');
+INSERT INTO `user_list` VALUES (7, 12345678900, 'user7', '000000', 'xianxian7', 'chen@163.com');
+INSERT INTO `user_list` VALUES (8, 12345678900, 'user8', '000000', 'xianxian8', 'chen@163.com');
+INSERT INTO `user_list` VALUES (9, 12345678900, 'user9', '000000', 'xianxian9', 'chen@163.com');
+INSERT INTO `user_list` VALUES (10, 12345678900, 'user10', '000000', 'xianxian10', 'chen@163.com');
+INSERT INTO `user_list` VALUES (11, 18810218523, 'ChrisChen', '19980612', 'ChenQixian', 'chenqixian@buaa.edu.cn');
+INSERT INTO `user_list` VALUES (12, 18811181818, 'newuser', '000000', 'test', 'chen@123');
+INSERT INTO `user_list` VALUES (13, 998777, 'nyz', 'nyz', 'nyz', 'niuyazhe@buaa.edu.cn');
+INSERT INTO `user_list` VALUES (14, 12345678900, 'cqx', '000000', 'cqx', 'chen@123');

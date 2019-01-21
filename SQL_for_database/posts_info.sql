@@ -1,0 +1,18 @@
+INSERT INTO `posts_info` VALUES (1, 1, 1, 'Hello world! From user 1!', 1543154311);
+INSERT INTO `posts_info` VALUES (1, 1, 2, 'This website is so 666!', 1543154481);
+INSERT INTO `posts_info` VALUES (1, 1, 3, 'keep learning.', 1543154926);
+INSERT INTO `posts_info` VALUES (1, 1, 4, 'stay hungry.stay foolish.', 1543154961);
+INSERT INTO `posts_info` VALUES (1, 1, 5, 'I am a big fan of Andrew Ng.', 1543159848);
+INSERT INTO `posts_info` VALUES (1, 1, 6, 'Database principle is so difficult!', 1543159993);
+INSERT INTO `posts_info` VALUES (6, 10, 7, 'None', 1543160118);
+INSERT INTO `posts_info` VALUES (7, 2, 8, 'Database principle is so difficult!', 1543162513);
+INSERT INTO `posts_info` VALUES (5, 2, 9, 'None', 1543162589);
+INSERT INTO `posts_info` VALUES (7, 1, 10, 'Gotcha! I will keep that in mind!', 1543196844);
+INSERT INTO `posts_info` VALUES (11, 1, 11, 'Hi man!', 1544233346);
+INSERT INTO `posts_info` VALUES (12, 10, 12, 'None', 1544233459);
+INSERT INTO `posts_info` VALUES (1, 11, 13, 'Hello world,This is Chris!', 1544449521);
+INSERT INTO `posts_info` VALUES (12, 11, 14, 'None', 1544449654);
+INSERT INTO `posts_info` VALUES (13, 11, 15, 'Hola!Chris!', 1544449705);
+INSERT INTO `posts_info` VALUES (1, 11, 16, 'Hello CookieZT!', 1544496438);
+INSERT INTO `posts_info` VALUES (11, 1, 17, 'Please mind your words,everybody!', 1544505847);
+INSERT INTO `posts_info` VALUES (7, 1, 18, 'Good Luck everyone!', 1544839738);
